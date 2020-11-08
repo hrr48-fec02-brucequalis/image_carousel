@@ -10,14 +10,14 @@ var realData = [
     product: 1,
     imageName: 'stock-studio-image',
     color: 'baby-blue',
-    url: 'https://target-image-carousel.s3-us-west-1.amazonaws.com/Screen+Shot+2020-09-24+at+5.20.35+PM.png',
+    url: 'https://target-image-carousel.s3-us-west-1.amazonaws.com/Screen+Shot+2020-09-24+at+5.20.35+PM.jp2',
     alt: 'baby-blue-sweatshirt'
   },
   {
     product: 1,
     imageName: "girl-modelingSS1",
     color: "all",
-    url: "https://target-image-carousel.s3-us-west-1.amazonaws.com/Screen+Shot+2020-10-08+at+4.04.32+PM.png",
+    url: "https://target-image-carousel.s3-us-west-1.amazonaws.com/Screen+Shot+2020-10-08+at+4.04.32+PM.jp2",
     alt: "baby-blue-sweatshirt",
     __v: 0
 },
@@ -25,7 +25,7 @@ var realData = [
     product: 1,
     imageName: "girl-modelingSS2",
     color: "all",
-    url: "https://target-image-carousel.s3-us-west-1.amazonaws.com/Screen+Shot+2020-09-24+at+5.21.10+PM.png",
+    url: "https://target-image-carousel.s3-us-west-1.amazonaws.com/Screen+Shot+2020-09-24+at+5.21.10+PM.jp2",
     alt: "baby-blue-sweatshirt",
     __v: 0
 },
@@ -33,7 +33,7 @@ var realData = [
     product: 1,
     imageName: "girl-modelingSS3",
     color: "all",
-    url: "https://target-image-carousel.s3-us-west-1.amazonaws.com/Screen+Shot+2020-10-08+at+4.06.16+PM.png",
+    url: "https://target-image-carousel.s3-us-west-1.amazonaws.com/Screen+Shot+2020-10-08+at+4.06.16+PM.jp2",
     alt: "baby-blue-sweatshirt",
     __v: 0
 },
@@ -41,7 +41,7 @@ var realData = [
     product: 1,
     imageName: "girl-modelingSS4",
     color: "all",
-    url: "https://target-image-carousel.s3-us-west-1.amazonaws.com/Screen+Shot+2020-10-08+at+4.08.14+PM.png",
+    url: "https://target-image-carousel.s3-us-west-1.amazonaws.com/Screen+Shot+2020-10-08+at+4.08.14+PM.jp2",
     alt: "baby-blue-sweatshirt",
     __v: 0
 },
@@ -49,7 +49,7 @@ var realData = [
     product: 1,
     imageName: "girl-modelingSS5",
     color: "all",
-    url: "https://target-image-carousel.s3-us-west-1.amazonaws.com/Screen+Shot+2020-10-08+at+4.09.38+PM.png",
+    url: "https://target-image-carousel.s3-us-west-1.amazonaws.com/Screen+Shot+2020-09-24+at+5.21.52+PM.jp2",
     alt: "baby-blue-sweatshirt",
     __v: 0
 },
@@ -57,7 +57,7 @@ var realData = [
     product: 1,
     imageName: "girl-modelingSS6",
     color: "all",
-    url: "https://target-image-carousel.s3-us-west-1.amazonaws.com/Screen+Shot+2020-10-08+at+4.09.10+PM.png",
+    url: "https://target-image-carousel.s3-us-west-1.amazonaws.com/Screen+Shot+2020-09-24+at+5.21.39+PM.jp2",
     alt: "baby-blue-sweatshirt",
     __v: 0
 }
