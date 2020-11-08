@@ -1,8 +1,5 @@
 const mongoose = require('mongoose');
-const db = require('./index.js')
-
-
-
+const db = require('./index.js');
 
 let imageSchema = new mongoose.Schema({
   product: String,

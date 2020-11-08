@@ -1,8 +1,6 @@
 import React from 'react';
 import styles from './PopOut.module.css';
 
-
-
 const BigImage = (props) => (
 
       <div className={styles.bigImageContainer}>
