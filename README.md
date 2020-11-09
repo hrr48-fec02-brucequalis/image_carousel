@@ -19,7 +19,7 @@ This Application is a media centric module used to browse through images for the
 ![Imgur](https://i.imgur.com/pYHCot7.gifv)
 
 ### Proxy:
-![proxyGif](/Users/michael/Documents/Galvanize/HRR48/FEC/PR gifs/8Lf8e2rKlK.gif)
+![proxyGif](https://i.imgur.com/YEOZMIX.gif)
 
 ## Welcome to the image carousel
 
