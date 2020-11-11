@@ -16,6 +16,7 @@ This Application is a media centric module used to browse through images for the
 
 ### Module:
 ![moduleImg](https://i.imgur.com/pYHCot7.gif)
+<a href="https://i.imgur.com/pYHCot7"><img src="https://i.imgur.com/pYHCot7.gif" title="module"/></a>
 ![Imgur](https://i.imgur.com/pYHCot7.gifv)
 
 ### Proxy:
