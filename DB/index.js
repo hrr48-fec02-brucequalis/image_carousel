@@ -1,8 +1,9 @@
 const mongoose = require('mongoose');
-const mongoURL = 'mongodb://localhost/carousel';
+const dotenv = require('dotenv').config()
 
 
-mongoose.connect(mongoURL, { useUnifiedTopology: true, useNewUrlParser: true })
+
+mongoose.connect(process.env.DATABASE_URL, { useUnifiedTopology: true, useNewUrlParser: true })
 .then(()=>{
   console.log(`connection to database established`)
 }).catch(err=>{
