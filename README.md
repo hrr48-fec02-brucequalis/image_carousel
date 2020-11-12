@@ -15,11 +15,7 @@ This Application a basic e-commerce site. I specifically the media centric modul
 ## Examples:  
 
 ### Module:
-![moduleImg](https://i.imgur.com/pYHCot7.gif)
-
-
-<a href="https://i.imgur.com/pYHCot7"><img src="https://i.imgur.com/pYHCot7.gif" title="module"/></a>
-![Imgur](https://i.imgur.com/pYHCot7.gifv)
+![yXu6OYQgxF](https://user-images.githubusercontent.com/48224142/98879967-ec40a380-2443-11eb-8514-25ef27145b41.gif)
 
 ### Proxy:
 ![carousel-proxy](https://user-images.githubusercontent.com/48224142/98876794-4178b700-243c-11eb-8ffe-eeae525d4b07.gif)
