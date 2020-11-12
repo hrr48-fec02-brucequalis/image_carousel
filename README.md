@@ -1,5 +1,5 @@
 # Carousel
-This Application is a media centric module used to browse through images for the product on the page. All images are hosted on S3, as well as the application is hosted on EC2. The standard view of the module allows you to click different picture and change a main picture, that the user can zoom in on to better see product. If the user is to click the zoomed in picture, they can see an expanded carousel view that allows the user to see more pictures for each product. 
+This Application a basic e-commerce site. I specifically the media centric module used to browse through images for the product on the page. All images are hosted on S3, as well as the application is hosted on EC2. The standard view of the module allows you to click different picture and change a main picture, that the user can zoom in on to better see product. If the user is to click the zoomed in picture, they can see an expanded carousel view that allows the user to see more pictures for each product. 
 
 ## Tech Used:
 - NodeJS0.
