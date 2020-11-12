@@ -5,6 +5,7 @@ This Application a basic e-commerce site. I specifically the media centric modul
 - NodeJS0.
 - React
 - Express
+- MongoDB
 - Mongoose 
 - AWS (EC2 & S3)
 - CSS Modules
